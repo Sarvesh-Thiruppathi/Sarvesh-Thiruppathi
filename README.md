@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sarvesh-Thiruppathi
+- 👀 I’m interested in ... Robotics and Artificial Intelligence 
+- 🌱 I’m currently learning ... Harvard's CS50: Introduction to Computer Science
+- 📫 How to reach me ... Email- sarveshthiruppathi@gmail.com / Linkedin: https://www.linkedin.com/in/sarveshth/
